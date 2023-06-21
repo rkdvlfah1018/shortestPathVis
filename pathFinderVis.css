@@ -1,0 +1,41 @@
+.nav-item .whiteText, .whiteText, .whiteText:hover, .nav-item .whiteText:hover{
+    color:white;
+}
+
+.description{
+    text-align: center;
+    background-color: rgb(0, 213, 255);
+    padding: 30px;
+    margin-bottom: 0;
+}
+
+.wallNode{
+    background-color: black;
+}
+
+.discovered{
+    background-color: red;
+}
+
+.explored{
+    background-color: blue;
+}
+
+.path{
+    background-color: greenyellow;
+}
+
+.toProjects{
+    color: white;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.startNode{
+    text-align: center;
+}
+
+.endNode{
+    text-align: center;
+}
